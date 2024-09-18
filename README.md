@@ -69,7 +69,12 @@ This part is flexible.
 
 ### Input and Output 
 The input that you need will be a directory containing ZTF csv's. It will read to get the columns of ID and the associated light curves, and create a tuple of them. It will create 5 different entropy definitions on the given light curves. 
-The FOURIER_ENT is what my new entropy definition is calcualted as. The 5 different entropy calculations are used as post-comparative tools to find potentinal lensed quasar candidates.    
+The FOURIER_ENT is what my new entropy definition is calcualted as. The 5 different entropy calculations are used as post-comparative tools to find potentinal lensed quasar candidates.   \
+
+Line 196 contains the path that you will change to your needs:
+```python
+Milli_paths_QSO = '/sharedata/fastdisk/perkeys/spentropy/data/alberto_QSO'
+```
 
 
 # Summary of Math

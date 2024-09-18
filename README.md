@@ -75,3 +75,10 @@ The FOURIER_ENT is what my new entropy definition is calcualted as. The 5 differ
 # Summary of Math
 See paper : [Using Fourier Coefficients and Wasserstein Distances to Estimate Entropy in Time Series] \
 DOI: 10.1109/e-Science58273.2023.10254949
+
+# For Contact
+I am currently a Master's student at CSULB (graduating spring 2025) and you can email me at scott.perkey01@student.csulb.edu. \
+My other academic email is perkeys@uci.edu. \
+These are the main ways to contact me through email.
+
+

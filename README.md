@@ -73,5 +73,5 @@ The FOURIER_ENT is what my new entropy definition is calcualted as. The 5 differ
 
 
 # Summary of Math
-See paper : [Using Fourier Coefficients and Wasserstein Distances to Estimate Entropy in Time Series]
+See paper : [Using Fourier Coefficients and Wasserstein Distances to Estimate Entropy in Time Series] \
 DOI: 10.1109/e-Science58273.2023.10254949
